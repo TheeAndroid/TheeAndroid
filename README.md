@@ -5,12 +5,10 @@
 
 [![Twitter: Ytrpesh](https://img.shields.io/twitter/follow/ytrpesh?style=social)](https://twitter.com/ytrpesh)
 [![GitHub: abitandroid](https://img.shields.io/github/followers/abitandroid?label=follow&style=social)](https://github.com/abitandroid)
-[![Instagram: ytrpesh](https://img.shields.io/instagram/followers/ytrpesh?label=follow&style=social)](https://instagram.com/ytrpesh)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```javascri
 const yash = {
   pronouns: "sir" | "thee",
   code: [Javascript, Kotlin, HTML, CSS, C, C++, Python, Java],
