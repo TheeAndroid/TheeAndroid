@@ -1,6 +1,6 @@
 <h2> Hi, I'm Yash Tripathi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Android and <a href="http://www.unb.br">Web Developer</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.yashtripathi.in">ABitAndroid</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> Web and <a href="http://www.unb.br">Android Developer</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.ABitAndroid.in">ABitAndroid</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Ytrpesh](https://img.shields.io/twitter/follow/ytrpesh?style=social)](https://twitter.com/ytrpesh)
