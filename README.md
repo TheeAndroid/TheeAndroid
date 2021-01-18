@@ -8,7 +8,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascri
+```javascript
 const yash = {
   pronouns: "sir" | "thee",
   code: [Javascript, Kotlin, HTML, CSS, C, C++, Python, Java],
