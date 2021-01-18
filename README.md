@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Ytrpesh](https://img.shields.io/twitter/follow/ytrpesh?style=social)](https://twitter.com/ytrpesh)
-[![GitHub: web-yasht](https://img.shields.io/github/followers/abitandroid?label=follow&style=social)](https://github.com/abitandroid)
+[![GitHub: abitandroid](https://img.shields.io/github/followers/abitandroid?label=follow&style=social)](https://github.com/abitandroid)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
